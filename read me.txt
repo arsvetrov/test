@@ -1,0 +1,3 @@
+To get access to the store: Enter "any" values in log* and pas* fields
+Images may be shown incorrect: Check the path to files 
+Have nice day :)
