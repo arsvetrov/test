@@ -1,0 +1,30 @@
+* { /* стили для всего документа */
+background: black;
+color: white;
+}
+.C1 { /* стили для тега с именем класса "C1" */
+font-size: 18px;
+color: white;
+font-style: bold;
+background: red;
+}
+#id1 { /* стили для тега с id ="id1" */
+font-size: 18px;
+color: red;}
+
+#id2 { /* стили для тега с id ="id2" */
+font-size: 18px;
+color: red;
+}
+h1 { /* стили для тега H1 */
+font-size: 50px;
+font-weight: bold;
+color: white;
+font-style: italic;
+}
+.C2 { /* стили для тега с именем класса "C1" */
+font-size: 18px;
+color: white;
+font-style: bold;
+background: green;
+}
